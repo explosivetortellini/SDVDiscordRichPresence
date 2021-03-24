@@ -44,9 +44,9 @@
     <None Include="manifest.json" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DiscordSDK\DiscordSDK.csproj">
-      <Project>{EBA220DF-9FCE-44AC-B13E-D4C85455486F}</Project>
-      <Name>DiscordSDK</Name>
+    <ProjectReference Include="..\discord_game_sdk\discord_game_sdk.csproj">
+      <Project>{BCF0C853-6D57-4D8A-B582-0CB56AA80D2F}</Project>
+      <Name>discord_game_sdk</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

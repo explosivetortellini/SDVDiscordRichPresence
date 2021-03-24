@@ -1,4 +1,6 @@
-﻿using System;
+﻿//#define EHTRUE
+// ^ allows exception handling
+using System;
 using System.Reflection;
 using StardewModdingAPI;
 using StardewModdingAPI.Events;
@@ -22,6 +24,7 @@ namespace SDVDiscordRichPresence
         /// <param name="helper">Provides simplified APIs for writing mods.</param>
         public override void Entry(IModHelper helper)
         {
+#if EHTRUE
             try
             {
                 discord = new Discord.Discord(824160913908039729, (UInt64)Discord.CreateFlags.NoRequireDiscord);
@@ -29,6 +32,9 @@ namespace SDVDiscordRichPresence
             {
                 this.Monitor.Log($"Discord DLL not found", LogLevel.Error);
             }
+#else
+            discord = new Discord.Discord(824160913908039729, (UInt64)Discord.CreateFlags.NoRequireDiscord);
+#endif
             helper.Events.Input.ButtonPressed += this.OnButtonPressed;
             helper.Events.GameLoop.DayStarted += this.NewDay;
             helper.Events.GameLoop.OneSecondUpdateTicked += this.Update;
@@ -66,6 +72,7 @@ namespace SDVDiscordRichPresence
         {
             if (!Context.IsWorldReady)
                 return;
+#if EHTRUE
             try
             {
                 discord.RunCallbacks();
@@ -73,6 +80,9 @@ namespace SDVDiscordRichPresence
             {
                 this.Monitor.Log($"Discord DLL not found, null reference exception", LogLevel.Warn);
             }
-}
+#else
+            discord.RunCallbacks();
+#endif
+        }
     }
 }
