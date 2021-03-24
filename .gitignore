@@ -2,4 +2,7 @@
 packages
 
 # Debug folder
-**/bin/Debug
+DiscordSDK/obj/Debug
+SDVDiscordRichPresence/bin/Debug
+SDVDiscordRichPresence/obj/Debug
+.vs
