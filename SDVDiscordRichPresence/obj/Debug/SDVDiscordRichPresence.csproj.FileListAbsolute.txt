@@ -1,11 +1,15 @@
-/home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/discord_game_sdk.dll.lib
 /home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/discord_game_sdk.bundle
+/home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/discord_game_sdk.dll
+/home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/discord_game_sdk.dll.lib
 /home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/discord_game_sdk.dylib
 /home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/discord_game_sdk.so
-/home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/discord_game_sdk.dll
 /home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/SDVDiscordRichPresence.dll.config
 /home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/SDVDiscordRichPresence.dll
 /home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/SDVDiscordRichPresence.pdb
+/home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/DiscordSDK.dll
+/home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/DiscordSDK.pdb
+/home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/obj/Debug/SDVDiscordRichPresence.csprojAssemblyReference.cache
 /home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/obj/Debug/SDVDiscordRichPresence.csproj.CoreCompileInputs.cache
+/home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/obj/Debug/SDVDiscordRichPresence.csproj.CopyComplete
 /home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/obj/Debug/SDVDiscordRichPresence.dll
 /home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/obj/Debug/SDVDiscordRichPresence.pdb
