@@ -1,18 +1,19 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workbench ActiveDocument="SDVDiscordRichPresence/Main.cs">
     <Files>
-      <File FileName="SDVDiscordRichPresence/Main.cs" Line="10" Column="2" />
+      <File FileName="SDVDiscordRichPresence/Main.cs" Line="30" Column="76" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SDVDiscordRichPresence" expanded="True">
             <Node name="DiscordSDK" expanded="True">
+              <Node name="References" expanded="True" />
               <Node name="DiscordGameSDK" expanded="True" />
-              <Node name="discord_game_sdk.bundle" selected="True" />
             </Node>
             <Node name="SDVDiscordRichPresence" expanded="True">
               <Node name="References" expanded="True" />
+              <Node name="Main.cs" selected="True" />
             </Node>
           </Node>
         </State>

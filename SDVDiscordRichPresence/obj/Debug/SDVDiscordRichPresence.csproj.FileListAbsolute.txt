@@ -3,7 +3,6 @@
 /home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/discord_game_sdk.dll.lib
 /home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/discord_game_sdk.dylib
 /home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/discord_game_sdk.so
-/home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/SDVDiscordRichPresence.dll.config
 /home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/SDVDiscordRichPresence.dll
 /home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/SDVDiscordRichPresence.pdb
 /home/bigtiddypiratebf/Projects/SDVDiscordRichPresence/SDVDiscordRichPresence/bin/Debug/DiscordSDK.dll
