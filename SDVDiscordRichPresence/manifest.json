@@ -1,0 +1,10 @@
+﻿{
+  "Name": "SDVDiscordRichPresence",
+  "Author": "explosivetortellini",
+  "Version": "1.0.0",
+  "Description": "Discord Rich Presence mod that works on all platforms",
+  "UniqueID": "explosivetortellini.SDVDiscordRichPresence",
+  "EntryDll": "SDVDiscordRichPresence.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
